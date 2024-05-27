@@ -1,0 +1,61 @@
+.head{
+    color:white;
+    background-color: rgba(15, 14, 14, 0.892);
+     background-attachment: scroll;
+    text-align: center;
+    border: 1px solid black;
+    padding: 4px;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+}
+ nav a:hover{
+    height: 4px;
+    background-color: rgb(175, 175, 134);
+}
+.h3{
+    border: none;
+    color: white;
+    background-color: rgba(26,25,25, 0.421) ;
+}
+.h3:hover{
+    background-color: rgb(175, 175, 146);
+}
+input[type=search]{
+    width: 40%;
+}
+.h2{
+    text-decoration: none;
+    text-align: center;
+    
+}
+div a{
+    text-decoration: none;
+    color: rgb(114, 124, 124);
+    padding: 3px;
+}
+.h4{
+    text-align: center;
+    
+}
+.h5{
+    text-align: center;
+}
+.h6{
+
+    text-align: center;
+    padding: 5px;
+    color: #fff;
+    background-color: rgb(17, 14, 14);
+}
+.t{
+    margin-left: auto;
+    margin-right: auto;
+
+}
+th,td{
+    padding-right: 120px;
+    border-bottom: 1px solid black;
+}
